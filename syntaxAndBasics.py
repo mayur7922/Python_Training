@@ -2,16 +2,16 @@
 
 # For square => 
 
-# side = int(input("Enter the side length of the square : "))
-# area = side * side
-# print("Area of the square is : ", area)
+side = int(input("Enter the side length of the square : "))
+area = side * side
+print("Area of the square is : ", area)
 
 # For rectangle
 
-# length = int(input("Enter the length of the rectangle : "))
-# bredth = int(input("Enter the bredth of the rectangle : "))
-# area = length * bredth
-# print("Area of the given rectangle is : ", area)
+length = int(input("Enter the length of the rectangle : "))
+bredth = int(input("Enter the bredth of the rectangle : "))
+area = length * bredth
+print("Area of the given rectangle is : ", area)
 
 # 2) Develop a program to take user input for multiple numbers, store them in a list, and compute basic statistical metrics like mean, median, mode, and standard deviation.
 
